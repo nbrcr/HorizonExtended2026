@@ -1,10 +1,10 @@
 Name: Horizon Extended 2026
 Identity: HorizonExtended2026
-Version: 1.0.1
+Version: 1.0.2
 GUID: fcec720d-46a3-497b-8c77-f6f76d8c71e4
 BaseGUID: 1ded0138-47ce-435e-84ef-9ec1f439b749
 
-Author: Horizon Extended (ported)
+Author: Nez
 Description: Horizon Extended 2026 - a Visual Studio 2026 port of the VS Code Horizon Extended theme.
 Tags: Dark, Horizon, Horizon Extended, VS2026, Theme, Dark Theme
 Icon: HorizonExtended2026.png
