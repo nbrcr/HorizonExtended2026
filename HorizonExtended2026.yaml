@@ -98,7 +98,7 @@ Sections:
     mergeEditor.SelectionBox: ["#94cbf7", null]
     CSS Keyword: [05x00000000, "#b877db"]
     CSS Comment: [05x00000000, "#BBBBBB4D"]
-    CSS Selector: [05x00000000, "#e95678"]
+    CSS Selector: [05x00000000, "#e9cc56"]
     CSS Property Name: [05x00000000, "#f09383"]
     CSS Property Value: [05x00000000, "#D5D8DA"]
     CSS String Value: [05x00000000, "#9ad479"]
